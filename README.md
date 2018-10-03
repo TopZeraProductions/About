@@ -1,8 +1,11 @@
 # About US! TopZera Productions
 
-Nome: João Vitor Paulino RA: 1801021
-Nome: Daniel Roberto RA: 1800479
-Nome: Tiago Beneteli RA: 1800804
-Nome: Ramon C. Pires RA: 1800260
+João Vitor Paulino - 1801021 - paulino.joaovitor@yahoo.com.br
+
+Daniel Roberto - 1800479 - bruce-irom@hotmail.com
+
+Tiago Beneteli - 1800804 - tiagobeneteli@hotmail.com
+
+Ramon C. Pires - 1800260 - ramoncavpires@gmail.com
 
 Faculdade impacta de tecnologia 2018
